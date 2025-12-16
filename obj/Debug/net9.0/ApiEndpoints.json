@@ -31,7 +31,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "Emergency_Services_Locator.Backend.Tools.MapViewModel",
+        "Type": "System.Collections.Generic.List\u00601[[Emergency_Services_Locator.Backend.Tools.MapViewModel, Emergency Services Locator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "application/json"
         ],

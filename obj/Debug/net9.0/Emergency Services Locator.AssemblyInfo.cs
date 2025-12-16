@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Emergency Services Locator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0821c260ea8944957e37d90c61012b197565aea6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48845de3e66fabaac2fecfe45c9e6fba1208ebf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Emergency Services Locator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Emergency Services Locator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
